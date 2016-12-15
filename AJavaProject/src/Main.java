@@ -4,8 +4,8 @@ public class Main {
 		print(new User());
 	}
 
-	public static void print(User ubs) {
-		System.out.println(ubs.toString());
+	public static void print(User EE) {
+		System.out.println(EE.toString());
 		
 	}
 }
