@@ -4,7 +4,7 @@ public class Main {
 		print(new User());
 	}
 	
-	public static void print(User u) {
-		System.out.println(u.toString());
+	public static void print(User a) {
+		System.out.println(a.toString());
 	}
 }
