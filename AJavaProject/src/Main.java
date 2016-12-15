@@ -1,10 +1,10 @@
 
 public class Main {
 	public static void main(String[] args) {
-		print(new User());
+		print(new Dog());
 	}
 	
-	public static void print(User u) {
-		System.out.println(u.toString());
+	public static void print(Dog d) {
+		System.out.println(d.toString());
 	}
 }
